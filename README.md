@@ -73,6 +73,7 @@
 - SuperVanish
 - TabLocation
 - Teaks Tweaks
+- ToolStats
 - TreeAssist
 - Vault
 - VelocityReport
