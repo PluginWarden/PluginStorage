@@ -1,6 +1,6 @@
 # PluginStorage
 
-Currently supported plugins:
+## Currently supported plugins:
 
 - AdvancedBan
 - ClearLag
