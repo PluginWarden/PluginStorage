@@ -19,6 +19,7 @@
 - ChestSort
 - CleanroomGenerator
 - ClearLag
+- Command Items
 - Conditional Events
 - Copper Items
 - CoreProtect
