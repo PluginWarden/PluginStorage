@@ -94,3 +94,4 @@
 - WorldEditSUI
 - WorldGuard
 - XItemsRemover
+- ZIP Backpacks
