@@ -7,6 +7,7 @@
 - Akropolis
 - AnimatedScoreboard
 - AsyncWorldEdit
+- Automatic-Crafting-Table
 - Brewery
 - Builders-Utilities
 - BungeeChat
