@@ -4,6 +4,7 @@
 ## Currently supported plugins:
 
 - AdvancedBan
+- Akropolis
 - AnimatedScoreboard
 - AsyncWorldEdit
 - Brewery
@@ -59,6 +60,7 @@
 - SteamWarTeamserver
 - SuperLobbyDeluxe
 - SuperVanish
+- Teaks Tweaks
 - TreeAssist
 - Vault
 - ViaBackwards
