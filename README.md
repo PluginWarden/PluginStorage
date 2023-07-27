@@ -43,6 +43,7 @@
 - SteamWarTeamserver*
 - SuperLobbyDeluxe
 - SuperVanish*
+- TreeAssist*
 - Vault*
 - ViaBackwards
 - ViaRewind
