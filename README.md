@@ -47,6 +47,7 @@
 - HealthBar
 - Holographic Displays
 - InstaKillMobs
+- Invisible Frames
 - Invsee
 - ItemEdit
 - KeepChunks
