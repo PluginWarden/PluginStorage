@@ -1,0 +1,1 @@
+F3NPerm\-.*?(?<MAJOR>\d+)\.(?<MINOR>\d+)(\.(?<PATCH>\d+))?.*?\.jar
