@@ -68,6 +68,7 @@
 - Player Analytics
 - Prefix System
 - ProtocolLib
+- Realistic Biomes
 - Screaming BedWars
 - Simple Tpa
 - SimpleAutoRestart
