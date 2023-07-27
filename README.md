@@ -36,6 +36,7 @@
 - Invsee
 - ItemEdit
 - KeepChunks
+- Limitless TPS
 - LuckPerms
 - MODT
 - Multiverse-Core
