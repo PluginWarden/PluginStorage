@@ -58,6 +58,8 @@ Supported Plugins: 114
 - HealthBar
 - HexNicks
 - Holographic Displays
+- HuskHomes
+- HuskHomesGUI
 - InstaKillMobs
 - Invisible Frames
 - Invsee
