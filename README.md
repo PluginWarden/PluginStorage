@@ -14,6 +14,7 @@ Supported Plugins: 112
 - AsyncWorldEdit
 - Aurelium Skills
 - Automatic-Crafting-Table
+- BigDoors
 - Bookshelf
 - Brewery
 - Builders-Utilities
