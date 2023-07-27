@@ -22,6 +22,7 @@
 - CleanroomGenerator
 - ClearLag
 - Command Items
+- CommandAPI
 - Conditional Events
 - Copper Items
 - CoreProtect
