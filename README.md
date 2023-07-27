@@ -11,6 +11,7 @@
 - Armed Armor Stands
 - ArmorStandEditor-Reborn
 - AsyncWorldEdit
+- Aurelium Skills
 - Automatic-Crafting-Table
 - Brewery
 - Builders-Utilities
