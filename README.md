@@ -76,3 +76,4 @@
 - WorldEdit
 - WorldEditSUI
 - WorldGuard
+- XItemsRemover
