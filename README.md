@@ -55,6 +55,7 @@
 - ProtocolLib
 - Screaming BedWars
 - Simple Tpa
+- SimpleAutoRestart
 - SteamWarTeamserver
 - SuperLobbyDeluxe
 - SuperVanish
