@@ -27,6 +27,7 @@
 - EssentialsX Spawn
 - EssentialsX XMPP
 - F3NPerm
+- FarmControl
 - FastAsyncWorldEdit
 - GSit
 - Holographic Displays
