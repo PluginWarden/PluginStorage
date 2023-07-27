@@ -4,6 +4,7 @@
 ## Currently supported plugins:
 
 - AdvancedBan
+- ajQueue
 - Akropolis
 - Ambassador
 - AnimatedScoreboard
