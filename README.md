@@ -48,6 +48,7 @@
 - KeepChunks
 - Limitless TPS
 - LuckPerms
+- Minimal TPA
 - MODT
 - Multiverse-Core
 - Multiverse-NetherPortals
