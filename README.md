@@ -13,6 +13,7 @@
 - ChestSort
 - CleanroomGenerator
 - ClearLag
+- Copper Items
 - CoreProtect
 - DeluxeHub 3
 - Dynmap
