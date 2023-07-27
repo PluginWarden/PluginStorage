@@ -25,6 +25,7 @@
 - Conditional Events
 - Copper Items
 - CoreProtect
+- CraftFlowers
 - Custom Join Messages
 - DeluxeHub 3
 - DriveBackupV2
