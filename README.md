@@ -5,6 +5,7 @@
 
 - AdvancedBan
 - Akropolis
+- Ambassador
 - AnimatedScoreboard
 - Armed Armor Stands
 - AsyncWorldEdit
