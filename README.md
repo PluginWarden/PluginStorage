@@ -7,7 +7,7 @@
 - Builders-Utilities
 - BungeeChat
 - CleanroomGenerator
-- ClearLag
+- ClearLag*
 - Dynmap
 - EssentialsX
 - EssentialsX AntiBuild
@@ -20,7 +20,7 @@
 - EssentialsX XMPP
 - F3NPerm
 - FastAsyncWorldEdit
-- Holographic Displays
+- Holographic Displays*
 - KeepChunks
 - LuckPerms
 - Multiverse-Core
@@ -28,10 +28,10 @@
 - Multiverse-Portals
 - Multiverse-SignPortals
 - PlaceholderAPI
-- ProtocolLib
-- SteamWarTeamserver
+- ProtocolLib*
+- SteamWarTeamserver*
 - SuperLobbyDeluxe
-- Vault
+- Vault*
 - ViaBackwards
 - ViaRewind
 - ViaRewind Legacy Support
@@ -39,3 +39,5 @@
 - WorldEdit
 - WorldEditSUI
 - WorldGuard
+
+*currently no auto-detect
