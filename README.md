@@ -57,6 +57,7 @@
 - Invsee
 - ItemEdit
 - KeepChunks
+- KickRedirect
 - Limitless TPS
 - LuckPerms
 - MiniBlocks
