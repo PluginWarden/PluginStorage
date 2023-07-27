@@ -58,6 +58,7 @@
 - Multiverse-Portals
 - Multiverse-SignPortals
 - Networks
+- Nova
 - One Player Sleep
 - OpenAudioMc
 - PerWorldCommands
