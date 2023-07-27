@@ -3,6 +3,8 @@
 ## Currently supported plugins:
 
 - AdvancedBan
+- AsyncWorldEdit
+- BungeeChat
 - ClearLag
 - Dynmap
 - EssentialsX
@@ -24,6 +26,7 @@
 - Multiverse-SignPortals
 - PlaceholderAPI
 - ProtocolLib
+- SteamWarTeamserver
 - Vault
 - ViaBackwards
 - ViaRewind

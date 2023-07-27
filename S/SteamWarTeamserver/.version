@@ -1,0 +1,1 @@
+SteamWarTeamserver\-legacy\-support\-.*?(?<MAJOR>\d+)\.(?<MINOR>\d+)\.(?<PATCH>\d+).*?\.jar
