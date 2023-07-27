@@ -55,6 +55,7 @@
 - OpenAudioMc
 - PlaceholderAPI
 - Player Analytics
+- Prefix System
 - ProtocolLib
 - Screaming BedWars
 - Simple Tpa
