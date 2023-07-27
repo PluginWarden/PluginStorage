@@ -54,6 +54,7 @@
 - ViaRewind
 - ViaRewind Legacy Support
 - ViaVersion
+- VoxelSniper
 - WorldEdit
 - WorldEditSUI
 - WorldGuard
