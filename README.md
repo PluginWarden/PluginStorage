@@ -70,6 +70,7 @@
 - ProtocolLib
 - Quick Harvest
 - Realistic Biomes
+- Realistic Survival
 - RealTimeWeather
 - Screaming BedWars
 - Simple Tpa
