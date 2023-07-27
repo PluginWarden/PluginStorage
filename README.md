@@ -65,6 +65,7 @@
 - SteamWarTeamserver
 - SuperLobbyDeluxe
 - SuperVanish
+- TabLocation
 - Teaks Tweaks
 - TreeAssist
 - Vault
