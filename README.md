@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 111
+Supported Plugins: 112
 
 ## Currently supported plugins:
 
@@ -23,6 +23,7 @@ Supported Plugins: 111
 - ChestSort
 - CleanroomGenerator
 - ClearLag
+- ClientCatcher
 - Command Items
 - CommandAPI
 - Conditional Events
