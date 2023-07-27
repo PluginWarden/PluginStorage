@@ -9,6 +9,7 @@
 - Brewery
 - Builders-Utilities
 - BungeeChat
+- Carbon
 - Chunky
 - ChestSort
 - CleanroomGenerator
