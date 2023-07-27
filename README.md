@@ -8,6 +8,7 @@
 - BungeeChat
 - CleanroomGenerator
 - ClearLag*
+- CoreProtect
 - Dynmap
 - EssentialsX
 - EssentialsX AntiBuild
@@ -20,6 +21,7 @@
 - EssentialsX XMPP
 - F3NPerm
 - FastAsyncWorldEdit
+- GSit
 - Holographic Displays*
 - KeepChunks
 - LuckPerms
@@ -27,10 +29,13 @@
 - Multiverse-NetherPortals
 - Multiverse-Portals
 - Multiverse-SignPortals
+- One Player Sleep*
 - PlaceholderAPI
 - ProtocolLib*
+- Simple Tpa*
 - SteamWarTeamserver*
 - SuperLobbyDeluxe
+- SuperVanish*
 - Vault*
 - ViaBackwards
 - ViaRewind
