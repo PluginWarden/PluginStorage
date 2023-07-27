@@ -16,8 +16,12 @@
 - EssentialsX XMPP
 - F3NPerm
 - FastAsyncWorldEdit
+- Holographic Displays
 - LuckPerms
 - Multiverse-Core
+- Multiverse-NetherPortals
+- Multiverse-Portals
+- Multiverse-SignPortals
 - PlaceholderAPI
 - ProtocolLib
 - Vault
