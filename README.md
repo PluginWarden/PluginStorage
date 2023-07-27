@@ -69,6 +69,7 @@
 - Teaks Tweaks
 - TreeAssist
 - Vault
+- VelocityTools
 - ViaBackwards
 - ViaRewind
 - ViaRewind Legacy Support
