@@ -43,6 +43,7 @@
 - Multiverse-NetherPortals
 - Multiverse-Portals
 - Multiverse-SignPortals
+- Networks
 - One Player Sleep
 - OpenAudioMc
 - PlaceholderAPI
