@@ -1,1 +1,1 @@
-Vault\-.*?(?<MAJOR>\d+)\.(?<MINOR>\d+)\.(?<PATCH>\d+).*?\.jar
+Vault
