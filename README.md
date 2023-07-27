@@ -68,6 +68,7 @@
 - ViaRewind Legacy Support
 - ViaVersion
 - VoxelSniper
+- WildRTP
 - WorldEdit
 - WorldEditSUI
 - WorldGuard
