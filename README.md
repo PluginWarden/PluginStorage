@@ -68,6 +68,7 @@
 - Player Analytics
 - Prefix System
 - ProtocolLib
+- Quick Harvest
 - Realistic Biomes
 - Screaming BedWars
 - Simple Tpa
