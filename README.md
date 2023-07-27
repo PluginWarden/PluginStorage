@@ -24,6 +24,7 @@
 - DeluxeHub 3
 - Dynmap
 - EmotesChat
+- EnhancedVelocity
 - EssentialsX
 - EssentialsX AntiBuild
 - EssentialsX Chat
@@ -70,7 +71,9 @@
 - Teaks Tweaks
 - TreeAssist
 - Vault
+- VelocityReport
 - VelocityTools
+- VelocityVanish
 - ViaBackwards
 - ViaRewind
 - ViaRewind Legacy Support
