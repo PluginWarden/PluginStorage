@@ -1,9 +1,10 @@
 # PluginStorage
-Supported Plugins: 110
+Supported Plugins: 111
 
 ## Currently supported plugins:
 
 - AdvancedBan
+- AdvancedTeleport
 - ajQueue
 - Akropolis
 - Ambassador
