@@ -28,6 +28,7 @@
 - EssentialsX Protect
 - EssentialsX Spawn
 - EssentialsX XMPP
+- ExtraRecipes
 - Ez Chest Shop
 - F3NPerm
 - FarmControl
