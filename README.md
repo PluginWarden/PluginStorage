@@ -1,10 +1,12 @@
 # PluginStorage
 
+
 ## Currently supported plugins:
 
 - AdvancedBan
 - AnimatedScoreboard
 - AsyncWorldEdit
+- Brewery
 - Builders-Utilities
 - BungeeChat
 - Chunky
