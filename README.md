@@ -22,6 +22,7 @@
 - Conditional Events
 - Copper Items
 - CoreProtect
+- Custom Join Messages
 - DeluxeHub 3
 - Dynmap
 - EmotesChat
