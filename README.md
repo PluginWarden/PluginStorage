@@ -12,6 +12,7 @@
 - CleanroomGenerator
 - ClearLag
 - CoreProtect
+- DeluxeHub 3
 - Dynmap
 - EssentialsX
 - EssentialsX AntiBuild
