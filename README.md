@@ -72,6 +72,7 @@ Supported Plugins: 106
 - Nova
 - One Player Sleep
 - OpenAudioMc
+- PAPIProxyBridge
 - PerWorldCommands
 - PlaceholderAPI
 - Player Analytics
