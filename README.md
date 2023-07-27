@@ -9,6 +9,7 @@
 - Ambassador
 - AnimatedScoreboard
 - Armed Armor Stands
+- ArmorStandEditor-Reborn
 - AsyncWorldEdit
 - Automatic-Crafting-Table
 - Brewery
