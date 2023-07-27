@@ -68,6 +68,7 @@
 - Multiverse-Portals
 - Multiverse-SignPortals
 - Networks
+- Nextron
 - Nova
 - One Player Sleep
 - OpenAudioMc
