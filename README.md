@@ -26,6 +26,7 @@
 - EssentialsX Protect
 - EssentialsX Spawn
 - EssentialsX XMPP
+- Ez Chest Shop
 - F3NPerm
 - FarmControl
 - FastAsyncWorldEdit
