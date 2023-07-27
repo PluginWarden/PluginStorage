@@ -36,6 +36,7 @@
 - FarmControl
 - FastAsyncWorldEdit
 - GSit
+- HealthBar
 - Holographic Displays
 - InstaKillMobs
 - Invsee
