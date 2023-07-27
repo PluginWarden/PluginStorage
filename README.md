@@ -4,6 +4,7 @@
 
 - AdvancedBan
 - AsyncWorldEdit
+- Builders-Utilities
 - BungeeChat
 - ClearLag
 - Dynmap
@@ -19,6 +20,7 @@
 - F3NPerm
 - FastAsyncWorldEdit
 - Holographic Displays
+- KeepChunks
 - LuckPerms
 - Multiverse-Core
 - Multiverse-NetherPortals
