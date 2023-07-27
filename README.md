@@ -69,6 +69,7 @@
 - Prefix System
 - ProtocolLib
 - Quick Harvest
+- RandomControl
 - Realistic Biomes
 - Realistic Survival
 - RealTimeWeather
