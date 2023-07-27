@@ -23,6 +23,8 @@
 - FastAsyncWorldEdit
 - GSit
 - Holographic Displays*
+- Invsee*
+- ItemEdit
 - KeepChunks
 - LuckPerms
 - Multiverse-Core
@@ -32,6 +34,7 @@
 - One Player Sleep*
 - PlaceholderAPI
 - ProtocolLib*
+- Screaming BedWars
 - Simple Tpa*
 - SteamWarTeamserver*
 - SuperLobbyDeluxe
