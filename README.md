@@ -44,6 +44,7 @@
 - F3NPerm
 - FarmControl
 - FastAsyncWorldEdit
+- FeatherMorph
 - GSit
 - HealthBar
 - Holographic Displays
