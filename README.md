@@ -35,6 +35,7 @@
 - Multiverse-Portals
 - Multiverse-SignPortals
 - One Player Sleep*
+- OpenAudioMc
 - PlaceholderAPI
 - ProtocolLib*
 - Screaming BedWars
