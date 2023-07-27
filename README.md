@@ -13,6 +13,7 @@
 - ChestSort
 - CleanroomGenerator
 - ClearLag
+- Conditional Events
 - Copper Items
 - CoreProtect
 - DeluxeHub 3
