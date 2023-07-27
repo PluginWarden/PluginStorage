@@ -3,9 +3,11 @@
 ## Currently supported plugins:
 
 - AdvancedBan
+- AnimatedScoreboard*
 - AsyncWorldEdit
 - Builders-Utilities
 - BungeeChat
+- Chunky
 - CleanroomGenerator
 - ClearLag*
 - CoreProtect
@@ -27,6 +29,7 @@
 - ItemEdit
 - KeepChunks
 - LuckPerms
+- MODT*
 - Multiverse-Core
 - Multiverse-NetherPortals
 - Multiverse-Portals
