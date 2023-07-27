@@ -86,6 +86,7 @@ Supported Plugins: 109
 - Realistic Survival
 - RealTimeWeather
 - Screaming BedWars
+- Scythe
 - Simple Tpa
 - SimpleAutoRestart
 - SteamWarTeamserver
