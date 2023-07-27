@@ -49,6 +49,7 @@
 - KeepChunks
 - Limitless TPS
 - LuckPerms
+- MiniBlocks
 - Minimal TPA
 - MODT
 - Multiverse-Core
