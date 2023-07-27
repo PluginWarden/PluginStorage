@@ -26,6 +26,7 @@
 - CoreProtect
 - Custom Join Messages
 - DeluxeHub 3
+- DriveBackupV2
 - Dynmap
 - EmotesChat
 - EnhancedVelocity
