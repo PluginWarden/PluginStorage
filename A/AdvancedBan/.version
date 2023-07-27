@@ -1,0 +1,1 @@
+AdvancedBan\-.*?(?<MAJOR>\d+)\.(?<MINOR>\d+)\.(?<PATCH>\d+).*?\.jar

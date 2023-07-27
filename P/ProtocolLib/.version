@@ -1,0 +1,1 @@
+ProtocolLib\-.*?(?<MAJOR>\d+)\.(?<MINOR>\d+)\.(?<PATCH>\d+).*?\.jar
