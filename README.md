@@ -76,6 +76,7 @@
 - VoxelSniper
 - WildRTP
 - WorldEdit
+- WorldEdit Tick Spreader
 - WorldEditSUI
 - WorldGuard
 - XItemsRemover
