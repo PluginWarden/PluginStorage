@@ -16,6 +16,7 @@
 - CoreProtect
 - DeluxeHub 3
 - Dynmap
+- EmotesChat
 - EssentialsX
 - EssentialsX AntiBuild
 - EssentialsX Chat
@@ -54,6 +55,7 @@
 - ViaRewind
 - ViaRewind Legacy Support
 - ViaVersion
+- VoxelSniper
 - WorldEdit
 - WorldEditSUI
 - WorldGuard
