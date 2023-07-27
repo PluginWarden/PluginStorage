@@ -30,6 +30,7 @@
 - FastAsyncWorldEdit
 - GSit
 - Holographic Displays
+- InstaKillMobs
 - Invsee
 - ItemEdit
 - KeepChunks
