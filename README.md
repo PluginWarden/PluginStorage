@@ -6,6 +6,7 @@
 - AdvancedBan
 - Akropolis
 - AnimatedScoreboard
+- Armed Armor Stands
 - AsyncWorldEdit
 - Automatic-Crafting-Table
 - Brewery
