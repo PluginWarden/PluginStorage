@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 112
+Supported Plugins: 114
 
 ## Currently supported plugins:
 
@@ -50,6 +50,7 @@ Supported Plugins: 112
 - ExtraRecipes
 - Ez Chest Shop
 - F3NPerm
+- Fancy Holograms
 - FarmControl
 - FastAsyncWorldEdit
 - FeatherMorph
