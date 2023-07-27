@@ -94,6 +94,7 @@
 - ViaRewind
 - ViaRewind Legacy Support
 - ViaVersion
+- VillagerInfo
 - VoxelSniper
 - WildRTP
 - WorldEdit
