@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 107
+Supported Plugins: 108
 
 ## Currently supported plugins:
 
@@ -51,6 +51,7 @@ Supported Plugins: 107
 - FeatherMorph
 - GSit
 - HealthBar
+- HexNicks
 - Holographic Displays
 - InstaKillMobs
 - Invisible Frames
