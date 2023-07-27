@@ -55,6 +55,7 @@
 - Networks
 - One Player Sleep
 - OpenAudioMc
+- PerWorldCommands
 - PlaceholderAPI
 - Player Analytics
 - Prefix System
