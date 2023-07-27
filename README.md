@@ -29,6 +29,7 @@
 - CraftFlowers
 - Custom Join Messages
 - DeluxeHub 3
+- Discord Statusbot
 - DriveBackupV2
 - Dynmap
 - EmotesChat
