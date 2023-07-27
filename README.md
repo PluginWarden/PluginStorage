@@ -3,13 +3,14 @@
 ## Currently supported plugins:
 
 - AdvancedBan
-- AnimatedScoreboard*
+- AnimatedScoreboard
 - AsyncWorldEdit
 - Builders-Utilities
 - BungeeChat
 - Chunky
+- ChestSort
 - CleanroomGenerator
-- ClearLag*
+- ClearLag
 - CoreProtect
 - Dynmap
 - EssentialsX
@@ -24,27 +25,28 @@
 - F3NPerm
 - FastAsyncWorldEdit
 - GSit
-- Holographic Displays*
-- Invsee*
+- Holographic Displays
+- Invsee
 - ItemEdit
 - KeepChunks
 - LuckPerms
-- MODT*
+- MODT
 - Multiverse-Core
 - Multiverse-NetherPortals
 - Multiverse-Portals
 - Multiverse-SignPortals
-- One Player Sleep*
+- One Player Sleep
 - OpenAudioMc
 - PlaceholderAPI
-- ProtocolLib*
+- Player Analytics
+- ProtocolLib
 - Screaming BedWars
-- Simple Tpa*
-- SteamWarTeamserver*
+- Simple Tpa
+- SteamWarTeamserver
 - SuperLobbyDeluxe
-- SuperVanish*
-- TreeAssist*
-- Vault*
+- SuperVanish
+- TreeAssist
+- Vault
 - ViaBackwards
 - ViaRewind
 - ViaRewind Legacy Support
@@ -52,5 +54,3 @@
 - WorldEdit
 - WorldEditSUI
 - WorldGuard
-
-*currently no auto-detect
