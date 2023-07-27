@@ -6,6 +6,7 @@
 - AsyncWorldEdit
 - Builders-Utilities
 - BungeeChat
+- CleanroomGenerator
 - ClearLag
 - Dynmap
 - EssentialsX
@@ -29,6 +30,7 @@
 - PlaceholderAPI
 - ProtocolLib
 - SteamWarTeamserver
+- SuperLobbyDeluxe
 - Vault
 - ViaBackwards
 - ViaRewind
