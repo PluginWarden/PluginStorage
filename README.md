@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 126
+Supported Plugins: 127
 
 ## Currently supported plugins:
 
@@ -110,6 +110,7 @@ Supported Plugins: 126
 - TabLocation
 - Teaks Tweaks
 - ToolStats
+- TrainCarts
 - TreeAssist
 - Vault
 - VelocityReport
