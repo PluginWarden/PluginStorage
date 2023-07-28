@@ -96,6 +96,7 @@ Supported Plugins: 117
 - Scythe
 - Simple Tpa
 - SimpleAutoRestart
+- SimplePets
 - SteamWarTeamserver
 - SuperLobbyDeluxe
 - SuperVanish
