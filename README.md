@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 130
+Supported Plugins: 131
 
 ## Currently supported plugins:
 
@@ -14,6 +14,7 @@ Supported Plugins: 130
 - AsyncWorldEdit
 - Aurelium Skills
 - Automatic-Crafting-Table
+- BetterGUI
 - BigDoors
 - Bookshelf
 - Brewery
