@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 123
+Supported Plugins: 124
 
 ## Currently supported plugins:
 
@@ -27,6 +27,7 @@ Supported Plugins: 123
 - ClientCatcher
 - Command Items
 - CommandAPI
+- ConcreteMixer
 - Conditional Events
 - Copper Items
 - CoreProtect
