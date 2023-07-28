@@ -20,6 +20,7 @@ Supported Plugins: 130
 - Builders-Utilities
 - BungeeChat
 - Carbon
+- ChatManager
 - Chunky
 - CleanPing
 - ChestSort
