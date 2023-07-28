@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 129
+Supported Plugins: 130
 
 ## Currently supported plugins:
 
@@ -21,6 +21,7 @@ Supported Plugins: 129
 - BungeeChat
 - Carbon
 - Chunky
+- CleanPing
 - ChestSort
 - CleanroomGenerator
 - ClearLag
