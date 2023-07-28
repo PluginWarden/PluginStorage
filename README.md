@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 117
+Supported Plugins: 119
 
 ## Currently supported plugins:
 
@@ -45,6 +45,7 @@ Supported Plugins: 117
 - EssentialsX Discord Link
 - EssentialsX Geo
 - EssentialsX Protect
+- EssentialsX Selectors
 - EssentialsX Spawn
 - EssentialsX XMPP
 - ExtraRecipes
