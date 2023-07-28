@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 127
+Supported Plugins: 128
 
 ## Currently supported plugins:
 
@@ -81,6 +81,7 @@ Supported Plugins: 127
 - Multiverse-NetherPortals
 - Multiverse-Portals
 - Multiverse-SignPortals
+- NBT API
 - Networks
 - Nextron
 - Nova
