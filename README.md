@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 119
+Supported Plugins: 120
 
 ## Currently supported plugins:
 
@@ -98,6 +98,7 @@ Supported Plugins: 119
 - Simple Tpa
 - SimpleAutoRestart
 - SimplePets
+- Spawn
 - SteamWarTeamserver
 - SuperLobbyDeluxe
 - SuperVanish
