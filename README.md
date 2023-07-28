@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 116
+Supported Plugins: 117
 
 ## Currently supported plugins:
 
@@ -68,6 +68,7 @@ Supported Plugins: 116
 - KickRedirect
 - Limitless TPS
 - LuckPerms
+- Mapify
 - MiniBlocks
 - Minimal TPA
 - MODT
