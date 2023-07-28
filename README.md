@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 128
+Supported Plugins: 129
 
 ## Currently supported plugins:
 
@@ -82,6 +82,7 @@ Supported Plugins: 128
 - Multiverse-Portals
 - Multiverse-SignPortals
 - NBT API
+- NDailyRewards
 - Networks
 - Nextron
 - Nova
