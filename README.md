@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 124
+Supported Plugins: 125
 
 ## Currently supported plugins:
 
@@ -119,6 +119,7 @@ Supported Plugins: 124
 - ViaRewind Legacy Support
 - ViaVersion
 - VillagerInfo
+- VLobby
 - VoxelSniper
 - WildRTP
 - WorldEdit
