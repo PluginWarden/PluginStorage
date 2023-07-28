@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 120
+Supported Plugins: 121
 
 ## Currently supported plugins:
 
@@ -84,6 +84,7 @@ Supported Plugins: 120
 - OpenAudioMc
 - PAPIProxyBridge
 - PerWorldCommands
+- PixelMOTD
 - PlaceholderAPI
 - Player Analytics
 - Prefix System
