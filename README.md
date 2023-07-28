@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 125
+Supported Plugins: 126
 
 ## Currently supported plugins:
 
@@ -73,6 +73,7 @@ Supported Plugins: 125
 - LuckPerms
 - Maintenance
 - Mapify
+- mclogs
 - MiniBlocks
 - Minimal TPA
 - MODT
