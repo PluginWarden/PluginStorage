@@ -73,6 +73,7 @@ Supported Plugins: 131
 - KeepChunks
 - KickRedirect
 - Limitless TPS
+- LogFilter
 - LuckPerms
 - Maintenance
 - Mapify
