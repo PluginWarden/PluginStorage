@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 121
+Supported Plugins: 122
 
 ## Currently supported plugins:
 
@@ -30,6 +30,7 @@ Supported Plugins: 121
 - Conditional Events
 - Copper Items
 - CoreProtect
+- Craftable Invisible frames
 - CraftFlowers
 - Custom Join Messages
 - DeluxeHub 3
