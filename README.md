@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 131
+Supported Plugins: 133
 
 ## Currently supported plugins:
 
@@ -73,6 +73,7 @@ Supported Plugins: 131
 - KeepChunks
 - KickRedirect
 - Limitless TPS
+- LogFilter
 - LuckPerms
 - Maintenance
 - Mapify
