@@ -60,6 +60,8 @@ Supported Plugins: 134
 - FarmControl
 - FastAsyncWorldEdit
 - FeatherMorph
+- GPFlags
+- GravityControl
 - GSit
 - Gunshell
 - HealthBar
