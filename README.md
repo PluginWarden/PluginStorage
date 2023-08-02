@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 151
+Supported Plugins: 150
 
 ## Currently supported plugins:
 
@@ -103,7 +103,6 @@ Supported Plugins: 151
 - Nextron
 - Nova
 - NyoomCarts
-- One Player Sleep
 - OnlineTime
 - OpenAudioMc
 - PAPIProxyBridge
