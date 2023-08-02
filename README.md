@@ -60,6 +60,7 @@ Supported Plugins: 139
 - F3NPerm
 - Fancy Holograms
 - FarmControl
+- FastAsyncVoxelSniper
 - FastAsyncWorldEdit
 - FeatherMorph
 - GPFlags
@@ -85,6 +86,7 @@ Supported Plugins: 139
 - mclogs
 - MiniBlocks
 - Minimal TPA
+- MiniPlaceholders
 - MODT
 - Multiverse-Core
 - Multiverse-NetherPortals
@@ -143,5 +145,7 @@ Supported Plugins: 139
 - WorldGuard
 - XItemsRemover
 - Yet Another RTP
+- YetAnotherSignEditor
 - Yolo
+- YVtils-SMP
 - ZIP Backpacks
