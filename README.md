@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 138
+Supported Plugins: 139
 
 ## Currently supported plugins:
 
@@ -95,7 +95,9 @@ Supported Plugins: 138
 - Networks
 - Nextron
 - Nova
+- NyoomCarts
 - One Player Sleep
+- OnlineTime
 - OpenAudioMc
 - PAPIProxyBridge
 - PerWorldCommands
@@ -140,4 +142,6 @@ Supported Plugins: 138
 - WorldEditSUI
 - WorldGuard
 - XItemsRemover
+- Yet Another RTP
+- Yolo
 - ZIP Backpacks
