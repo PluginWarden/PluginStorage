@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 139
+Supported Plugins: 151
 
 ## Currently supported plugins:
 
