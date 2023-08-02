@@ -10,6 +10,7 @@ Supported Plugins: 139
 - Akropolis
 - Ambassador
 - AnimatedScoreboard
+- AntiPopup
 - Armed Armor Stands
 - ArmorStandEditor-Reborn
 - AsyncWorldEdit
@@ -17,6 +18,7 @@ Supported Plugins: 139
 - Automatic-Crafting-Table
 - BetterGUI
 - BigDoors
+- BKCommonLib
 - Bookshelf
 - Brewery
 - Builders-Utilities
@@ -115,6 +117,7 @@ Supported Plugins: 139
 - RealTimeWeather
 - Screaming BedWars
 - Scythe
+- ServerUtils
 - Simple Tpa
 - SimpleAutoRestart
 - SimplePets
