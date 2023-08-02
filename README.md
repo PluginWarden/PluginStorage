@@ -1,8 +1,9 @@
 # PluginStorage
-Supported Plugins: 137
+Supported Plugins: 138
 
 ## Currently supported plugins:
 
+- 100% Eggs
 - AdvancedBan
 - AdvancedTeleport
 - ajQueue
