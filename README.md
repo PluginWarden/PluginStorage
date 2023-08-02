@@ -1,12 +1,11 @@
 # PluginStorage
-Supported Plugins: 151
+Supported Plugins: 150
 
 ## Currently supported plugins:
 
 - 100% Eggs
 - AdvancedBan
 - AdvancedTeleport
-- ajQueue
 - Akropolis
 - Ambassador
 - AnimatedScoreboard
@@ -16,9 +15,10 @@ Supported Plugins: 151
 - AsyncWorldEdit
 - Aurelium Skills
 - Automatic-Crafting-Table
+- ajQueue
+- BKCommonLib
 - BetterGUI
 - BigDoors
-- BKCommonLib
 - Bookshelf
 - Brewery
 - Builders-Utilities
@@ -26,9 +26,9 @@ Supported Plugins: 151
 - BungeeTablistPlus
 - Carbon
 - ChatManager
+- ChestSort
 - Chunky
 - CleanPing
-- ChestSort
 - CleanroomGenerator
 - ClearLag
 - ClientCatcher
@@ -38,8 +38,8 @@ Supported Plugins: 151
 - Conditional Events
 - Copper Items
 - CoreProtect
-- Craftable Invisible frames
 - CraftFlowers
+- Craftable Invisible frames
 - Custom Join Messages
 - DeluxeHub 3
 - Dig to Nether
@@ -48,6 +48,7 @@ Supported Plugins: 151
 - Dynmap
 - EmotesChat
 - EnhancedVelocity
+- EpicGuard
 - EssentialsX
 - EssentialsX AntiBuild
 - EssentialsX Chat
@@ -67,8 +68,8 @@ Supported Plugins: 151
 - FastAsyncWorldEdit
 - FeatherMorph
 - GPFlags
-- GravityControl
 - GSit
+- GravityControl
 - Gunshell
 - HealthBar
 - HexNicks
@@ -76,33 +77,32 @@ Supported Plugins: 151
 - HuskHomes
 - HuskHomesGUI
 - InstaKillMobs
+- InvSee++
 - Invisible Frames
 - Invsee
-- InvSee++
 - ItemEdit
 - KeepChunks
 - KickRedirect
 - Limitless TPS
 - LogFilter
 - LuckPerms
+- MOTD
 - Maintenance
 - Mapify
-- mclogs
-- MiniBlocks
-- Minimal TPA
+- Mini Blocks
 - MiniPlaceholders
-- MODT
+- Minimal TPA
 - Multiverse-Core
 - Multiverse-NetherPortals
 - Multiverse-Portals
 - Multiverse-SignPortals
+- mclogs
 - NBT API
 - NDailyRewards
 - Networks
 - Nextron
 - Nova
 - NyoomCarts
-- One Player Sleep
 - OnlineTime
 - OpenAudioMc
 - PAPIProxyBridge
@@ -114,13 +114,12 @@ Supported Plugins: 151
 - ProtocolLib
 - Quick Harvest
 - RandomControl
+- RealTimeWeather
 - Realistic Biomes
 - Realistic Survival
-- RealTimeWeather
 - Screaming BedWars
 - Scythe
 - ServerUtils
-- Simple Tpa
 - SimpleAutoRestart
 - SimplePets
 - Spawn
@@ -132,6 +131,7 @@ Supported Plugins: 151
 - ToolStats
 - TrainCarts
 - TreeAssist
+- VLobby
 - Vault
 - VelocityReport
 - VelocityTools
@@ -141,7 +141,6 @@ Supported Plugins: 151
 - ViaRewind Legacy Support
 - ViaVersion
 - VillagerInfo
-- VLobby
 - VoxelSniper
 - WildRTP
 - WorldEdit
@@ -149,8 +148,8 @@ Supported Plugins: 151
 - WorldEditSUI
 - WorldGuard
 - XItemsRemover
+- YVtils-SMP
 - Yet Another RTP
 - YetAnotherSignEditor
 - Yolo
-- YVtils-SMP
 - ZIP Backpacks
