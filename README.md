@@ -23,6 +23,7 @@ Supported Plugins: 139
 - Brewery
 - Builders-Utilities
 - BungeeChat
+- BungeeTablistPlus
 - Carbon
 - ChatManager
 - Chunky
@@ -77,6 +78,7 @@ Supported Plugins: 139
 - InstaKillMobs
 - Invisible Frames
 - Invsee
+- InvSee++
 - ItemEdit
 - KeepChunks
 - KickRedirect
