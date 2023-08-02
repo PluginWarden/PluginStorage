@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 133
+Supported Plugins: 134
 
 ## Currently supported plugins:
 
@@ -61,6 +61,7 @@ Supported Plugins: 133
 - FastAsyncWorldEdit
 - FeatherMorph
 - GSit
+- Gunshell
 - HealthBar
 - HexNicks
 - Holographic Displays
