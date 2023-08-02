@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 136
+Supported Plugins: 137
 
 ## Currently supported plugins:
 
@@ -38,6 +38,7 @@ Supported Plugins: 136
 - CraftFlowers
 - Custom Join Messages
 - DeluxeHub 3
+- Dig to Nether
 - Discord Statusbot
 - DriveBackupV2
 - Dynmap
