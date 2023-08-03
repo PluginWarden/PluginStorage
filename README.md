@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 181
+Supported Plugins: 187
 
 ## Currently supported plugins:
 
@@ -77,7 +77,9 @@ Supported Plugins: 181
 - FarmControl
 - FastAsyncVoxelSniper
 - FastAsyncWorldEdit
+- FasterCrystals
 - FeatherMorph
+- FurnitureLib
 - GPFlags
 - GSit
 - GravityControl
@@ -131,7 +133,9 @@ Supported Plugins: 181
 - PlotSquaredAddon
 - Prefix System
 - ProjectKorra Core
+- ProtectionLib
 - ProtocolLib
+- PurpurExtras
 - Quick Harvest
 - QuickShop-Hikari
 - RandomControl
@@ -154,6 +158,8 @@ Supported Plugins: 181
 - TabLocation
 - Teaks Tweaks
 - ToolStats
+- Towny Advanced
+- Towny Chat
 - TownyAddon
 - TrainCarts
 - TreeAssist
