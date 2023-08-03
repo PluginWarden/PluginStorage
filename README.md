@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 150
+Supported Plugins: 166
 
 ## Currently supported plugins:
 
@@ -10,14 +10,20 @@ Supported Plugins: 150
 - Ambassador
 - AnimatedScoreboard
 - AntiPopup
+- AntiVillagerLag
 - Armed Armor Stands
 - ArmorStandEditor-Reborn
 - AsyncWorldEdit
 - Aurelium Skills
 - Automatic-Crafting-Table
+- ajLeaderboards
 - ajQueue
 - BKCommonLib
+- Bending
+- Better Farmland
+- Better Keep Inventory
 - BetterGUI
+- BetterMessages
 - BigDoors
 - Bookshelf
 - Brewery
@@ -30,7 +36,6 @@ Supported Plugins: 150
 - Chunky
 - CleanPing
 - CleanroomGenerator
-- ClearLag
 - ClientCatcher
 - Command Items
 - CommandAPI
@@ -41,27 +46,28 @@ Supported Plugins: 150
 - CraftFlowers
 - Craftable Invisible frames
 - Custom Join Messages
+- CustomCrafting
 - DeluxeHub 3
 - Dig to Nether
 - Discord Statusbot
+- DiscordSRV
 - DriveBackupV2
 - Dynmap
 - EmotesChat
 - EnhancedVelocity
 - EpicGuard
-- EssentialsX
 - EssentialsX AntiBuild
 - EssentialsX Chat
-- EssentialsX Discord
 - EssentialsX Discord Link
+- EssentialsX Discord
 - EssentialsX Geo
 - EssentialsX Protect
 - EssentialsX Selectors
 - EssentialsX Spawn
 - EssentialsX XMPP
+- EssentialsX
 - ExtraRecipes
 - Ez Chest Shop
-- F3NPerm
 - Fancy Holograms
 - FarmControl
 - FastAsyncVoxelSniper
@@ -76,17 +82,21 @@ Supported Plugins: 150
 - Holographic Displays
 - HuskHomes
 - HuskHomesGUI
+- ImageFrame
+- Insights
 - InstaKillMobs
+- InteractionVisualizer
+- InteractiveChat DiscordSRV Addon
+- InteractiveChat
 - InvSee++
 - Invisible Frames
-- Invsee
-- ItemEdit
 - KeepChunks
 - KickRedirect
+- Kotlin
 - Limitless TPS
 - LogFilter
 - LuckPerms
-- MOTD
+- MCKotlin
 - Maintenance
 - Mapify
 - Mini Blocks
@@ -122,10 +132,12 @@ Supported Plugins: 150
 - ServerUtils
 - SimpleAutoRestart
 - SimplePets
+- Sit
 - Spawn
 - SteamWarTeamserver
 - SuperLobbyDeluxe
 - SuperVanish
+- squaremap
 - TabLocation
 - Teaks Tweaks
 - ToolStats
@@ -133,18 +145,22 @@ Supported Plugins: 150
 - TreeAssist
 - VLobby
 - Vault
+- Velocitab
 - VelocityReport
 - VelocityTools
 - VelocityVanish
 - ViaBackwards
-- ViaRewind
 - ViaRewind Legacy Support
+- ViaRewind
 - ViaVersion
 - VillagerInfo
 - VoxelSniper
+- Waypoints
 - WildRTP
-- WorldEdit
+- WolfyUtils
+- WorldEdit Selection Viewer
 - WorldEdit Tick Spreader
+- WorldEdit
 - WorldEditSUI
 - WorldGuard
 - XItemsRemover
