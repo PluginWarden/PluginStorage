@@ -1,14 +1,14 @@
 # PluginStorage
-Supported Plugins: 166
+Supported Plugins: 177
 
 ## Currently supported plugins:
 
 - 100% Eggs
+- Advanced Portals
 - AdvancedBan
 - AdvancedTeleport
 - Akropolis
 - Ambassador
-- AnimatedScoreboard
 - AntiPopup
 - AntiVillagerLag
 - Armed Armor Stands
@@ -20,6 +20,7 @@ Supported Plugins: 166
 - ajQueue
 - BKCommonLib
 - Bending
+- BetonQuest
 - Better Farmland
 - Better Keep Inventory
 - BetterGUI
@@ -32,13 +33,13 @@ Supported Plugins: 166
 - BungeeTablistPlus
 - Carbon
 - ChatManager
-- ChestSort
+- Chunky Border
 - Chunky
 - CleanPing
-- CleanroomGenerator
 - ClientCatcher
 - Command Items
 - CommandAPI
+- CommandWhitelist
 - ConcreteMixer
 - Conditional Events
 - Copper Items
@@ -47,12 +48,15 @@ Supported Plugins: 166
 - Craftable Invisible frames
 - Custom Join Messages
 - CustomCrafting
+- DecentHolograms
 - DeluxeHub 3
 - Dig to Nether
+- Discord Integration
 - Discord Statusbot
 - DiscordSRV
 - DriveBackupV2
 - Dynmap
+- Emotecraft plugin
 - EmotesChat
 - EnhancedVelocity
 - EpicGuard
@@ -100,6 +104,7 @@ Supported Plugins: 166
 - Maintenance
 - Mapify
 - Mini Blocks
+- MiniMOTD
 - MiniPlaceholders
 - Minimal TPA
 - Multiverse-Core
@@ -111,18 +116,22 @@ Supported Plugins: 166
 - NDailyRewards
 - Networks
 - Nextron
+- NotQuests
 - Nova
 - NyoomCarts
 - OnlineTime
 - OpenAudioMc
 - PAPIProxyBridge
 - PerWorldCommands
+- PerWorldPlugins
 - PixelMOTD
 - PlaceholderAPI
 - Player Analytics
 - Prefix System
+- ProjectKorra Core
 - ProtocolLib
 - Quick Harvest
+- QuickShop-Hikari
 - RandomControl
 - RealTimeWeather
 - Realistic Biomes
@@ -130,6 +139,7 @@ Supported Plugins: 166
 - Screaming BedWars
 - Scythe
 - ServerUtils
+- SetSpawn
 - SimpleAutoRestart
 - SimplePets
 - Sit
@@ -163,6 +173,7 @@ Supported Plugins: 166
 - WorldEdit
 - WorldEditSUI
 - WorldGuard
+- XCatch
 - XItemsRemover
 - YVtils-SMP
 - Yet Another RTP
