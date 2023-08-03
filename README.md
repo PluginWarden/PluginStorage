@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 177
+Supported Plugins: 181
 
 ## Currently supported plugins:
 
@@ -56,6 +56,7 @@ Supported Plugins: 177
 - DiscordSRV
 - DriveBackupV2
 - Dynmap
+- EliteMobs
 - Emotecraft plugin
 - EmotesChat
 - EnhancedVelocity
@@ -127,6 +128,7 @@ Supported Plugins: 177
 - PixelMOTD
 - PlaceholderAPI
 - Player Analytics
+- PlotSquaredAddon
 - Prefix System
 - ProjectKorra Core
 - ProtocolLib
@@ -140,6 +142,7 @@ Supported Plugins: 177
 - Scythe
 - ServerUtils
 - SetSpawn
+- Simple Voice Chat Discord Bridge
 - SimpleAutoRestart
 - SimplePets
 - Sit
@@ -151,6 +154,7 @@ Supported Plugins: 177
 - TabLocation
 - Teaks Tweaks
 - ToolStats
+- TownyAddon
 - TrainCarts
 - TreeAssist
 - VLobby
