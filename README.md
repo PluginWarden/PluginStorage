@@ -1,5 +1,5 @@
 # PluginStorage
-Supported Plugins: 187
+Supported Plugins: 193
 
 ## Currently supported plugins:
 
@@ -97,6 +97,10 @@ Supported Plugins: 187
 - InteractiveChat
 - InvSee++
 - Invisible Frames
+- Journey
+- JourneyEssentials
+- JourneyNotQuests
+- Juan
 - KeepChunks
 - KickRedirect
 - Kotlin
@@ -163,6 +167,8 @@ Supported Plugins: 187
 - TownyAddon
 - TrainCarts
 - TreeAssist
+- UltimateServerProtector
+- UnifiedMetrics
 - VLobby
 - Vault
 - Velocitab
